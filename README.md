@@ -4,6 +4,18 @@
 
 RAG Evaluator is a Python library for evaluating Retrieval-Augmented Generation (RAG) systems. It provides various metrics to evaluate the quality of generated text against reference text.
 
+How to build a Retrieval-Augmented Generation (RAG) Evaluation Tool and Python Library! In this video, I will guide you through the process of creating a comprehensive evaluation tool for RAG systems, complete with various metrics to assess the quality of generated text.
+
+✅ Setting up the project structure
+
+✅ Implementing evaluation metrics such as BLEU, ROUGE, BERT Score, Perplexity, Diversity, and Racial Bias
+ 
+✅ Creating a Python library that can be easily installed and used
+
+✅ Writing test cases to ensure the robustness of the tool 
+ 
+✅ Packaging and publishing the library to PyP, you'll have a powerful evaluation tool to enhance the performance and reliability of your RAG systems.
+
 ## Installation
 
 You can install the library using pip:
@@ -81,6 +93,18 @@ Contributions are welcome! If you have any improvements, suggestions, or bug fix
 4. Run tests to ensure everything is working.
 5. Commit your changes and push to your fork.
 6. Create a pull request (PR) with a detailed description of your changes.
+
+# Ouput
+
+![image](https://github.com/Siddhartha082/Build-a-RAG-Evaluation-Tool-and-Python-Library/assets/110781138/abf49e78-cd55-4e28-9c35-320b8f3bbb9e)
+
+![image](https://github.com/Siddhartha082/Build-a-RAG-Evaluation-Tool-and-Python-Library/assets/110781138/a8c80190-c07b-44c1-98f0-940fce6eeeb5)
+
+![image](https://github.com/Siddhartha082/Build-a-RAG-Evaluation-Tool-and-Python-Library/assets/110781138/34ad65ab-841f-4dc2-b596-acc711e14a74)
+
+
+
+
 
 ## Contact
 
