@@ -84,4 +84,4 @@ Contributions are welcome! If you have any improvements, suggestions, or bug fix
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out via [email](mailto:aianytime07@gmail.com).
+If you have any questions or need further assistance, feel free to reach out via [email](mailto:sai.siddharth@gmail.com).
